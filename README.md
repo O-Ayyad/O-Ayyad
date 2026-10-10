@@ -3,7 +3,6 @@
 CS Student · Systems · Backend · Full-Stack
  
 I build software from the bootloader up to the browser. I built and maintain operating systems, data pipelines, and production apps people use every day. Outside of coding I enjoy chess, tennis, and reading.
-Graduating December 2027 · Open to SWE internships
  
 ---
  

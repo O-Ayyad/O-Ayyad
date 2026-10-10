@@ -37,7 +37,7 @@ Graduating December 2027 · Open to SWE internships
  
 ### Projects
  
-**[ChessOS](https://github.com/[your-username]/ChessOS)**
+**[ChessOS](https://github.com/O-Ayyad/ChessOS)**
 A bootable 64-bit chess operating system. It has a custom BIOS bootloader, graphics, PS/2, and AC'97 audio drivers. The chess engine plays at 2750 Elo, with difficulty levels from beginner to master.
 `C++` `x86-64 Assembly` `NASM` `QEMU`
  
